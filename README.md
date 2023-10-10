@@ -1,8 +1,8 @@
-<h1 align="left">Hi i'm RIBIN 👋</h1>
+<h1 align="left">Hi i'm Shabeeb 👋</h1>
 
 ###
 
-<p align="left">Dedicated Web Wizard | Mastering HTML, CSS, and JavaScript Alchemy | Sculpting User-Centric Experiences | Unleashing the Power of Django, React, Python, and SQL | Architecting Data-Driven Marvels | Ready to Fuel Ambitious Projects and Ignite Collaborative Brilliance | Let's Embark on a Journey to Create the Extraordinary!</p>
+<p align="left">I'm Shabeeb Python Django web developer, specializing in building dynamic and scalable web sites using the Django framework.</p>
 
 ###
 
