@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Shabeeb Python Django web developer, specializing in building dynamic and scalable web sites using the Django framework.</p>
+<p align="left">I'm Shabeeb Python Django web developer, specializing in building dynamic and scalable web applications using the Django framework. With i am expertise in Python programming language and Django's Model-View-Template architecture, i can create robust and user-friendly web solutions. my skills include developing web sites and deploying applications on cloud platforms. i am experience working with databases such as postgresql, and integrating various libraries and frameworks to enhance web development. I am stays up-to-date with the latest web development trends and tools to provide cutting-edge solutions.</p>
 
 ###
 
