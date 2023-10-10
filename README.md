@@ -69,6 +69,6 @@
 <img src="https://raw.githubusercontent.com/RIBINZX/RIBINZX/output/snake.svg" alt="Snake animation" />
 
 ###
-
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=shabeebsha" alt="GitHub Streak" /></a>
 
 ###
