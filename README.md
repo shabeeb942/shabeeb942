@@ -13,10 +13,10 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/shabeeb-sha-645212245/" target="_blank">
+  <a href="https://www.linkedin.com/in/shabeeb-sha/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://www.instagram.com/shabeeb_sha942/" target="_blank">
+  <a href="https://www.instagram.com/mhd.shabeeb_k/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
   <a href="https://twitter.com/shabeebsha942" target="_blank">
